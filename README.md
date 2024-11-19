@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @msrissaxox
-- 👀 I’m interested in front end development.
-- 🌱 I’m currently learning html, CSS and JavsScript. I am familiar with the Bootstrap framework as well. 
-- 💞️ I’m looking to collaborate on front end projects in the near future!
+- 👀 I’m interested in full stack development.
+- 🌱 Full Stack Dev
+- 💞️ I’m looking to collaborate on full stack projects!
 - 📫 How to reach me @msrissxox on X.
 
 <!---
