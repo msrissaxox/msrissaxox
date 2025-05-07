@@ -15,7 +15,7 @@ I'm a passionate full-stack developer with a background in education and technol
 - Hackathons and development challenges with fellow developers.  
 
 ## 📫 How to Reach Me  
-- Connect with me on Bluesky @rissacodes.bsky.social https://bsky.app/profile/rissacodes.bsky.social
+- Connect with me [LinkedIn](https://linkedin.com/in/marissalamothe/)
 
 ---
 
