@@ -5,6 +5,7 @@
 I'm a passionate full-stack developer with a background in education and technology consulting. My expertise lies in building responsive, user-focused applications using modern web technologies like React.js, Node.js, Next.js, and Express.js. I combine my love for coding with my commitment to creating innovative and scalable solutions.  
 
 ## 🌱 What I’m Currently Doing  
+- Working alongside a team of developers with Chingu, creating a full stack app in an agile environment.
 - Enhancing my React.js and Tailwind CSS skills by working on dynamic full-stack applications.  
 - Exploring opportunities to contribute to open-source projects and collaborate with other developers.  
 
